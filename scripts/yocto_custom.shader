@@ -2,12 +2,12 @@
 
 textures/yocto_custom/darkglass
 {
-	qer_editorimage textures/yocto_custom/black.tga
+	qer_editorimage textures/yocto_custom_src/black
 	qer_trans .3
 	surfaceparm trans
 	cull disable
 	{
-		map textures/yocto_custom/glass.webp
+		map textures/yocto_custom_src/glass
 		tcgen environment
 		blendfunc gl_one gl_one
 		rgbGen identity
@@ -23,46 +23,15 @@ textures/yocto_custom/darkglass
 
 textures/yocto_custom/water
 {
-	qer_editorimage textures/yocto_custom/black.tga
+	qer_editorimage textures/yocto_custom_src/black
 	qer_trans 0.5
 	surfaceparm trans
 	surfaceparm nonsolid
 	surfaceparm fog
 	surfaceparm nolightmap
 	qer_nocarve
-	fogparms ( 0 .15 .3 ) 300
+	fogparms ( 0 .15 .3 ) 200
 
-}
-
-textures/yocto_custom/water_inside
-{
-	qer_editorimage textures/yocto_custom/water_d.tga
-	qer_trans .3
-	q3map_lightimage textures/yocto_custom/water_d.tga
-	q3map_globaltexture
-	surfaceparm trans
-	surfaceparm nonsolid
-	surfaceparm water
-	cull disable
-	deformVertexes wave 100 sin 0 1 0 .5	
-	{ 
-		map textures/yocto_custom/water_d.tga
-		blendFunc GL_dst_color GL_one
-		rgbgen identity
-		tcmod scale .5 .5
-		tcmod scroll .025 .01
-	}
-	{ 
-		map textures/yocto_custom/water_d.tga
-		blendFunc GL_dst_color GL_one
-		tcmod scale -.5 -.5
-		tcmod scroll .025 .025
-	}
-	{
-		map $lightmap
-		blendFunc GL_dst_color GL_zero
-		rgbgen identity		
-	}
 }
 
 // SKYBOX
@@ -82,7 +51,7 @@ textures/yocto_custom/sky
 // blue tile
 textures/yocto_custom/u_lamp4_b
 {
-	qer_editorimage textures/yocto_custom/u_lamp4.tga
+	qer_editorimage textures/yocto_custom_src/u_lamp4
 	surfaceparm nomarks
 	q3map_surfacelight 6001
 	q3map_lightRGB .4 .7 1
@@ -91,12 +60,12 @@ textures/yocto_custom/u_lamp4_b
 		rgbGen identity
 	}
 	{
-		map textures/yocto_custom/u_lamp4.tga
+		map textures/yocto_custom_src/u_lamp4
 		blendFunc GL_DST_COLOR GL_ZERO
 		rgbGen identity
 	}
 	{
-		map textures/yocto_custom/u_lamp4.blend.tga
+		map textures/yocto_custom_src/u_lamp4
 		blendfunc GL_ONE GL_ONE
 	}
 }

@@ -1,0 +1,88 @@
+-[GENERAL]---------------------------------------------------------------------
+    title : Yocto: underwater habitat
+    version : beta 2c
+    release date : 2014-04-27
+
+-[LICENSE]---------------------------------------------------------------------
+    Yocto map file is licensed under a
+    Creative Commons Attribution-Noncommercial-Share Alike 3.0 License:  
+    http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+-[CREDITS]---------------------------------------------------------------------
+    textures : see respective shared_* packages for credits and licenses
+               
+               Powerplant Textures (q4power) set by Matt "Lunaran" Breit
+               (http://www.lunaran.com)
+               
+
+    sounds : ambient.wav (originally: sound-underwater2.wav) by zippi1
+             (http://www.freesound.org/people/zippi1/sounds/18265/)
+             released under CC BY-NC license
+             (http://creativecommons.org/licenses/by-nc/3.0/)
+
+             motor1.wav (originally: water.wav) by neonaeon
+             (http://www.freesound.org/people/neonaeon/sounds/17494/)
+             released under CC BY license
+             (creativecommons.org/licenses/by/3.0/)
+
+             elevator sounds (doorstop.wav, lift1to2.wav, lift2to1.wav)
+             (originally: elevator_motor.wav) by pempi
+             (http://www.freesound.org/people/pempi/sounds/33873/)
+             released under CC BY license
+             (creativecommons.org/licenses/by/3.0/)
+
+-[BUILD]-----------------------------------------------------------------------
+    software :  Netradiant 1.5.0, q3map2, GIMP 2.8, audacity 2.0.2
+    compile : q3map2 -threads 4 -samplesize 8 -meta -keeplights -custinfoparms
+              q3map2 -threads 4 -vis -saveprt -hint
+              q3map2 -threads 4 -light  -fast -shade -dirty -patchshadows
+                     -randomsamples -samples 3 -bounce 8 -bouncegrid 
+                     -lightmapsize 1024 -deluxe
+
+	
+-[CHANGELOG]-------------------------------------------------------------------
+
+    2014-04-27
+    beta 2c    
+    final compile
+    adjusted brightness
+
+    2014-04-08
+    beta 2b    
+    modified color grading
+    light adjusted for 1.0 gamma
+    textures and shaders base on texture packs
+    
+    2014-01-15
+    beta 2a    
+    +color grading
+    +reverb effect 
+    modified color scheme
+    light improvements (increased intensity, added few)
+    minor bug fixes    
+
+    2012-12-19
+    beta 1
+    slight redesign of artificial gills (new ladders)
+    more clipping, small design adjustments
+
+    2012-12-01
+    alpha 916 (for unvanquished alpha 10)
+    location names adjustment, primitive PVS optimization, sound tweaks
+
+    2012-11-27
+    alpha 915
+    added sounds, few design changes
+    
+    2012-11-25
+    alpha 914
+    first *playable* release
+    added clipping, nonsolid details
+	
+    2012-11-06
+    alpha 911
+    first full release
+
+    2012-09-16
+    alpha 001
+    first concept map
