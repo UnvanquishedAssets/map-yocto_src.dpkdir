@@ -1,4 +1,4 @@
-yocto
 yocto_custom
 yocto_ex
+yocto_pk01
 yocto_q4power
