@@ -51,7 +51,7 @@ textures/yocto_custom/sky
 // blue tile
 textures/yocto_custom/u_lamp4_b
 {
-	qer_editorimage textures/yocto_custom_src/u_lamp4
+	qer_editorimage textures/yocto_custom_src/u_lamp4_d
 	surfaceparm nomarks
 	q3map_surfacelight 6001
 	q3map_lightRGB .4 .7 1
@@ -60,12 +60,12 @@ textures/yocto_custom/u_lamp4_b
 		rgbGen identity
 	}
 	{
-		map textures/yocto_custom_src/u_lamp4
+		map textures/yocto_custom_src/u_lamp4_d
 		blendFunc GL_DST_COLOR GL_ZERO
 		rgbGen identity
 	}
 	{
-		map textures/yocto_custom_src/u_lamp4
+		map textures/yocto_custom_src/u_lamp4_g
 		blendfunc GL_ONE GL_ONE
 	}
 }
