@@ -1,5 +1,12 @@
 // LIGHTS
 
+// off
+textures/yocto_q4power/light_ceil1_off
+{
+	qer_editorimage textures/yocto_q4power_src/light_ceil1_d
+	diffuseMap textures/yocto_q4power_src/light_ceil1_d
+}
+
 // yellow tiny
 textures/yocto_q4power/light_ceil1_g_yellow
 {
