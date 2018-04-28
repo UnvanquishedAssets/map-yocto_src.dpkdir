@@ -1,0 +1,53 @@
+-[GENERAL]---------------------------------------------------------------------
+    title : Yocto!
+    version : alpha 916
+    release date : 2012-12-01
+
+-[LICENSE]---------------------------------------------------------------------
+    Yocto map file is licensed under a
+    Creative Commons Attribution-Noncommercial-Share Alike 3.0 License:  
+    http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+-[CREDITS]---------------------------------------------------------------------
+    textures : Quake4 eX Texture Set by Yves Allaire aka "evillair" 
+               http://evillair.net
+
+               PK01 Quake4 texture set by Philip Klevestav
+               http://www.philipk.net
+
+    sounds : ambient.wav (sound-underwater2.wav) by zippi1 (freesound.org)
+             motor1.wav (water.wav) by neonaeon (freesound.org)
+             elevator sounds (doorstop.wav, lift1to2.wav, lift2to1.wav)
+             originally (elevator_motor.wav) by pempi (freesound.org), modified
+             by supertanker
+
+-[BUILD]-----------------------------------------------------------------------
+    software : Netradiant 1.5.0, q3map2, GIMP 2.8, audacity 2.0.2
+    compile : q3map2 -threads 4 -meta -custinfoparms -keeplights
+              q3map2 -threads 4 -vis -saveprt
+              q3map2 -threads 4 -light -faster -patchshadows -deluxe 
+                     -deluxemode 1 -lightmapsize 1024 -external
+    compile time : 303 seconds on i3-2120 CPU @ 3.30GHz x 4
+	
+-[CHANGELOG]-------------------------------------------------------------------
+
+    2012-12-01
+    alpha 916 (for unvanquished alpha 10)
+    location names adjustment, primitive PVS optimization, sound tweaks
+
+    2012-11-27
+    alpha 915
+    added sounds, few design changes
+    
+    2012-11-25
+    alpha 914
+    first *playable* release
+    added clipping, nonsolid details
+	
+    2012-11-06
+    alpha 911
+    first full release
+
+    2012-09-16
+    alpha 001
+    first concept map

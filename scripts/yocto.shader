@@ -1,31 +1,227 @@
+// NORMAL MAPS
+
+textures/yocto/eX_deswall_01_d
+{
+	diffusemap textures/yocto/eX_deswall_01_d.tga
+	normalmap textures/yocto/eX_deswall_01_local.tga
+	specularmap textures/yocto/eX_deswall_01_s.tga
+}
+
+textures/yocto/eX_floor_grate03_d
+{
+	diffusemap textures/yocto/eX_floor_grate03_d.tga
+	normalmap textures/yocto/eX_floor_grate03_local.tga
+	specularmap textures/yocto/eX_floor_grate03_s.tga
+}
+
+textures/yocto/eX_floor_mtl_grate_01_d
+{
+	diffusemap textures/yocto/eX_floor_mtl_grate_01_d.tga
+	normalmap textures/yocto/eX_floor_mtl_grate_01_local.tga
+	specularmap textures/yocto/eX_floor_mtl_grate_01_s.tga
+}
+
+textures/yocto/eX_floor_mtl_wrn_01_d
+{
+	diffusemap textures/yocto/eX_floor_mtl_wrn_01_d.tga
+	normalmap textures/yocto/eX_floor_mtl_wrn_01_local.tga
+	specularmap textures/yocto/eX_floor_mtl_wrn_01_s.tga
+}
+
+textures/yocto/eX_floor_simple_05_d
+{
+	diffusemap textures/yocto/eX_floor_simple_05_d.tga
+	normalmap textures/yocto/eX_floor_simple_05_local.tga
+	specularmap textures/yocto/eX_floor_simple_05_s.tga
+}
+
+textures/yocto/eX_floor_simplines_d
+{
+	diffusemap textures/yocto/eX_floor_simplines_d.tga
+	normalmap textures/yocto/eX_floor_simplines_local.tga
+	specularmap textures/yocto/eX_floor_simplines_s.tga
+}
+
+textures/yocto/eX_floor_tile_03_d
+{
+	diffusemap textures/yocto/eX_floor_tile_03_d.tga
+	normalmap textures/yocto/eX_floor_tile_03_local.tga
+	specularmap textures/yocto/eX_floor_tile_03_s.tga
+}
+
+textures/yocto/eX_floorpanel_01_d
+{
+	diffusemap textures/yocto/eX_floorpanel_01_d.tga
+	normalmap textures/yocto/eX_floorpanel_01_local.tga
+	specularmap textures/yocto/eX_floorpanel_01_s.tga
+}
+
+textures/yocto/eX_mtl_panel_03_d
+{
+	diffusemap textures/yocto/eX_mtl_panel_03_d.tga
+	normalmap textures/yocto/eX_mtl_panel_03_local.tga
+	specularmap textures/yocto/eX_mtl_panel_03_s.tga
+}
+
+textures/yocto/eX_mtl_panel_04_d
+{
+	diffusemap textures/yocto/eX_mtl_panel_04_d.tga
+	normalmap textures/yocto/eX_mtl_panel_04_local.tga
+	specularmap textures/yocto/eX_mtl_panel_04_s.tga
+}
+
+textures/yocto/eX_trim_01_d
+{
+	diffusemap textures/yocto/eX_trim_01_d.tga
+	normalmap textures/yocto/eX_trim_01_local.tga
+	specularmap textures/yocto/eX_trim_01_s.tga
+}
+
+textures/yocto/eX_trim_baseboard_02_d
+{
+	diffusemap textures/yocto/eX_trim_baseboard_02_d.tga
+	normalmap textures/yocto/eX_trim_baseboard_02_local.tga
+	specularmap textures/yocto/eX_trim_baseboard_02_s.tga
+}
+
+textures/yocto/eX_trim_baseboard_d
+{
+	diffusemap textures/yocto/eX_trim_baseboard_d.tga
+	normalmap textures/yocto/eX_trim_baseboard_local.tga
+	specularmap textures/yocto/eX_trim_baseboard_s.tga
+}
+
+
+textures/yocto/eX_trim_psimple_05_d
+{
+	diffusemap textures/yocto/eX_trim_psimple_05_d.tga
+	normalmap textures/yocto/eX_trim_psimple_05_local.tga
+	specularmap textures/yocto/eX_trim_psimple_05_s.tga
+}
+
+textures/yocto/eX_trim_simple_01_d
+{
+	diffusemap textures/yocto/eX_trim_simple_01_d.tga
+	normalmap textures/yocto/eX_trim_simple_01_local.tga
+	specularmap textures/yocto/eX_trim_simple_01_s.tga
+}
+
+textures/yocto/eX_trim_support_03_d
+{
+	diffusemap textures/yocto/eX_trim_support_03_d.tga
+	normalmap textures/yocto/eX_trim_support_03_local.tga
+	specularmap textures/yocto/eX_trim_support_03_s.tga
+}
+
+textures/yocto/eX_trim_vert_01_d
+{
+	diffusemap textures/yocto/eX_trim_vert_01_d.tga
+	normalmap textures/yocto/eX_trim_vert_01_local.tga
+	specularmap textures/yocto/eX_trim_vert_01_s.tga
+}
+
+textures/yocto/eX_wall_b01_d
+{
+	diffusemap textures/yocto/eX_wall_b01_d.tga
+	normalmap textures/yocto/eX_wall_b01_local.tga
+	specularmap textures/yocto/eX_wall_b01_s.tga
+}
+
+textures/yocto/eX_wall_bigrib_02_d
+{
+	diffusemap textures/yocto/eX_wall_bigrib_02_d.tga
+	normalmap textures/yocto/eX_wall_bigrib_02_local.tga
+	specularmap textures/yocto/eX_wall_bigrib_02_s.tga
+}
+
+textures/yocto/eX_wall_pipe_d
+{
+	diffusemap textures/yocto/eX_wall_pipe_d.tga
+	normalmap textures/yocto/eX_wall_pipe_local.tga
+	specularmap textures/yocto/eX_wall_pipe_s.tga
+}
+
+textures/yocto/eXmetalBase01_d
+{
+	diffusemap textures/yocto/eXmetalBase01_d.tga
+	normalmap textures/yocto/eXmetalBase01_local.tga
+	specularmap textures/yocto/eXmetalBase01_s.tga
+}
+
+textures/yocto/eXmetalBase03_d
+{
+	diffusemap textures/yocto/eXmetalBase03_d.tga
+	normalmap textures/yocto/eXmetalBase03_local.tga
+	specularmap textures/yocto/eXmetalBase03_s.tga
+}
+
+textures/yocto/eXmetal_plate01c_d
+{
+	diffusemap textures/yocto/eXmetal_plate01c_d.tga
+	normalmap textures/yocto/eXmetal_plate01c_local.tga
+	specularmap textures/yocto/eXmetal_plate01c_s.tga
+}
+
+textures/yocto/pk01_floor02a_d
+{
+	diffusemap textures/yocto/pk01_floor02a_d.tga
+	normalmap textures/yocto/pk01_floor02_local.tga
+	specularmap textures/yocto/pk01_floor02_s.tga
+}
+
+textures/yocto/pk01_wall03b_d
+{
+	diffusemap textures/yocto/pk01_wall03b_d.tga
+	normalmap textures/yocto/pk01_wall03_local.tga
+	specularmap textures/yocto/pk01_wall03_s.tga
+}
+
+textures/yocto/support1_d
+{
+	diffusemap textures/yocto/support1_d.tga
+	normalmap textures/yocto/support1_local.tga
+	specularmap textures/yocto/support1_s.tga
+}
+
+// GLASS
+
+textures/yocto/darkglass
+{
+	qer_editorimage textures/yocto/black.jpg
+	qer_trans .3
+	surfaceparm trans
+	cull disable
+	{
+		map textures/yocto/glass.tga
+		tcgen environment
+		blendfunc gl_one gl_one
+		rgbGen identity
+	}
+	{
+		map $lightmap
+		blendFunc gl_dst_color gl_zero
+		rgbgen identity
+	}
+}
+
 // NONSOLID
 
 textures/yocto/eXmetalBase01_nonsolid
 {
 	qer_editorimage textures/yocto/eXmetalBase01_d.tga
 	surfaceparm nonsolid
-	{
-		map textures/yocto/eXmetalBase01_d.tga
-	}
-	{
-		map $lightmap
-		blendfunc filter
-		tcGen lightmap
-	}
+	diffusemap textures/yocto/eXmetalBase01_d.tga
+	normalmap textures/yocto/eXmetalBase01_local.tga
+	specularmap textures/yocto/eXmetalBase01_s.tga
 }
 
 textures/yocto/eXmetalBase03_nonsolid
 {
 	qer_editorimage textures/yocto/eXmetalBase03_d.tga
 	surfaceparm nonsolid
-	{
-		map textures/yocto/eXmetalBase03_d.tga
-	}
-	{
-		map $lightmap
-		blendfunc filter
-		tcGen lightmap
-	}
+	diffusemap textures/yocto/eXmetalBase03_d.tga
+	normalmap textures/yocto/eXmetalBase03_local.tga
+	specularmap textures/yocto/eXmetalBase03_s.tga
 }
 
 // METALSTEPS
@@ -34,16 +230,9 @@ textures/yocto/eX_clangfloor_01_d
 {
 	qer_editorimage textures/yocto/eX_clangfloor_01_d.tga
 	surfaceparm metalsteps
-	{
-		map $lightmap
-		rgbGen identity
-		tcGen lightmap
-	}
-	{
-		map textures/yocto/eX_clangfloor_01_d.tga
-		blendfunc filter
-		rgbGen identity
-	}
+	diffusemap textures/yocto/eX_clangfloor_01_d.tga
+	normalmap textures/yocto/eX_clangfloor_01_local.tga
+	specularmap textures/yocto/eX_clangfloor_01_s.tga
 }
 
 // SEMI-TRANSPARENT
@@ -51,42 +240,34 @@ textures/yocto/eX_clangfloor_01_d
 textures/yocto/eX_rndfloor_02st_d
 {
 	qer_editorimage textures/yocto/eX_rndfloor_02st_d.tga
+	normalmap textures/yocto/eX_rndfloor_02_local.tga
+	specularmap textures/yocto/eX_rndfloor_02_s.tga
 	surfaceparm trans
 	surfaceparm nomarks
 	surfaceparm metalsteps
 	surfaceparm alphashadow
-	cull none
 	nopicmip
 	{
 		map textures/yocto/eX_rndfloor_02st_d.tga
+		stage diffusemap
 		alphafunc GE128
-		depthwrite
-	}
-	{
-		map $lightmap
-		depthfunc equal
-		blendfunc filter
 	}
 }
 
 textures/yocto/eX_rndfloor_01st_d
 {
 	qer_editorimage textures/yocto/eX_rndfloor_01st_d.tga
+	normalmap textures/yocto/eX_rndfloor_01_local.tga
+	specularmap textures/yocto/eX_rndfloor_01_s.tga
 	surfaceparm trans
 	surfaceparm nomarks
 	surfaceparm metalsteps
 	surfaceparm alphashadow
-	cull none
 	nopicmip
 	{
 		map textures/yocto/eX_rndfloor_01st_d.tga
+		stage diffusemap
 		alphafunc GE128
-		depthwrite
-	}
-	{
-		map $lightmap
-		depthfunc equal
-		blendfunc filter
 	}
 }
 
@@ -149,84 +330,17 @@ textures/yocto/sky
 	skyparms env/yocto/yocto - -
 }
 
-
-// LIGHTBEAMS/FLARES
-
-textures/yocto/lightbeam
-{
-	deformVertexes autosprite
-	surfaceparm nonsolid
-	surfaceparm nolightmap
-	surfaceparm trans
-	{
-		map textures/yocto/lightbeam.jpg
-		rgbGen vertex
-		blendfunc GL_SRC_ALPHA GL_ONE
-		alphaGen portal 256
-	}
-}
-
-textures/yocto/lightbeam2
-{
-	deformVertexes autosprite
-	surfaceparm nonsolid
-	surfaceparm nolightmap
-	surfaceparm trans
-	{
-		map textures/yocto/lightbeam2.jpg
-		rgbGen vertex
-		blendfunc GL_SRC_ALPHA GL_ONE
-		alphaGen portal 256
-	}
-}
-
-textures/yocto/lightbeam_cyan
-{
-	qer_editorimage textures/yocto/qer_lightbeam_cyan.tga
-	surfaceparm nolightmap
-	surfaceparm nomarks
-	surfaceparm nonsolid
-	surfaceparm trans
-	cull disable
-	qer_trans 0.5
-	{
-		map textures/yocto/lightbeam_cyan.tga
-		blendfunc add
-	}
-}
-
-textures/yocto/flare_cyan
-{
-	qer_editorimage textures/yocto/flare_cyan.tga
-	surfaceparm nolightmap
-	surfaceparm nomarks
-	surfaceparm nonsolid
-	surfaceparm trans
-	cull disable
-	qer_trans 0.6
-	{
-		map textures/yocto/flare_cyan.tga
-		blendfunc add
-	}
-}
-
 // LIGHTS
 
 // screen panels
 textures/yocto/pk01_panel03a_d
 {
 	qer_editorimage textures/yocto/pk01_panel03a_d.tga
+	diffusemap textures/yocto/pk01_panel03a_d.tga
+	normalmap textures/yocto/pk01_panel03_local.tga
+	specularmap textures/yocto/pk01_panel03_s.tga
 	q3map_surfacelight 100
 	q3map_lightRGB .1 .4 .8
-	{
-		map $lightmap
-		rgbGen identity
-	}
-	{
-		map textures/yocto/pk01_panel03a_d.tga
-		blendFunc GL_DST_COLOR GL_ZERO
-		rgbGen identity
-	}
 	{
 		map textures/yocto/pk01_panel03a_add.tga
 		blendfunc GL_ONE GL_ONE
@@ -236,17 +350,11 @@ textures/yocto/pk01_panel03a_d
 textures/yocto/pk01_panel02_d
 {
 	qer_editorimage textures/yocto/pk01_panel02_d.tga
+	diffusemap textures/yocto/pk01_panel02_d.tga
+	normalmap textures/yocto/pk01_panel02_local.tga
+	specularmap textures/yocto/pk01_panel02_s.tga
 	q3map_surfacelight 100
 	q3map_lightRGB .1 .4 .8
-	{
-		map $lightmap
-		rgbGen identity
-	}
-	{
-		map textures/yocto/pk01_panel02_d.tga
-		blendFunc GL_DST_COLOR GL_ZERO
-		rgbGen identity
-	}
 	{
 		map textures/yocto/pk01_panel02_add.tga
 		blendfunc GL_ONE GL_ONE
@@ -257,17 +365,11 @@ textures/yocto/pk01_panel02_d
 textures/yocto/pk01_door01a_d
 {
 	qer_editorimage textures/yocto/pk01_door01a_d.tga
+	diffusemap textures/yocto/pk01_door01a_d.tga
+	normalmap textures/yocto/pk01_door01_local.tga
+	specularmap textures/yocto/pk01_door01_s.tga
 	q3map_surfacelight 50
 	q3map_lightRGB 1 .6 0
-	{
-		map $lightmap
-		rgbGen identity
-	}
-	{
-		map textures/yocto/pk01_door01a_d.tga
-		blendFunc GL_DST_COLOR GL_ZERO
-		rgbGen identity
-	}
 	{
 		map textures/yocto/pk01_door01_add.tga
 		blendfunc GL_ONE GL_ONE
@@ -300,6 +402,8 @@ textures/yocto/light_ceil1_g_yellow
 textures/yocto/light_fifty_g_yellow 
 {
 	qer_editorimage textures/yocto/light_fifty_g_yellow.tga
+	normalmap addnormals(textures/yocto/light_fifty_local.tga, heightmap(textures/yocto/light_fifty_h.tga, 1))
+	specularmap textures/yocto/light_fifty_s.tga
 	surfaceparm nomarks
 	surfaceparm noimpact
 	surfaceparm nonsolid
@@ -309,13 +413,8 @@ textures/yocto/light_fifty_g_yellow
 	polygonoffset
 	{
 		map textures/yocto/light_fifty_d.tga
+		stage diffusemap
 		alphafunc GE128
-		depthwrite
-	}
-	{
-		map $lightmap
-		depthfunc equal
-		blendfunc filter
 	}
 	{
 		map textures/yocto/light_fifty_g_yellow.tga
@@ -349,6 +448,8 @@ textures/yocto/light_ceil1_g_magenta
 textures/yocto/light_fifty_g_magenta 
 {
 	qer_editorimage textures/yocto/light_fifty_g_magenta.tga
+	normalmap addnormals(textures/yocto/light_fifty_local.tga, heightmap(textures/yocto/light_fifty_h.tga, 1))
+	specularmap textures/yocto/light_fifty_s.tga
 	surfaceparm nomarks
 	surfaceparm noimpact
 	surfaceparm nonsolid
@@ -358,13 +459,8 @@ textures/yocto/light_fifty_g_magenta
 	polygonoffset
 	{
 		map textures/yocto/light_fifty_d.tga
+		stage diffusemap
 		alphafunc GE128
-		depthwrite
-	}
-	{
-		map $lightmap
-		depthfunc equal
-		blendfunc filter
 	}
 	{
 		map textures/yocto/light_fifty_g_magenta.tga
@@ -376,18 +472,28 @@ textures/yocto/light_fifty_g_magenta
 textures/yocto/light_r1_g_magenta
 {
 	qer_editorimage textures/yocto/light_r1_g_magenta.tga
+	diffusemap textures/yocto/light_r1_d.tga
+	normalmap addnormals(textures/yocto/light_r1_local.tga, heightmap(textures/yocto/light_r1_h.tga, 1))
+	specularmap textures/yocto/light_r1_s.tga
 	surfaceparm nomarks
 	q3map_surfacelight 5000
 	q3map_lightRGB 1 0 1
 	{
-		map $lightmap
-		rgbGen identity
+		map textures/yocto/light_r1_g_magenta.tga
+		blendfunc GL_ONE GL_ONE
 	}
-	{
-		map textures/yocto/light_r1_d.tga
-		blendFunc GL_DST_COLOR GL_ZERO
-		rgbGen identity
-	}
+}
+
+// magenta small strong
+textures/yocto/light_r1_g_magenta_strong
+{
+	qer_editorimage textures/yocto/light_r1_g_magenta.tga
+	diffusemap textures/yocto/light_r1_d.tga
+	normalmap addnormals(textures/yocto/light_r1_local.tga, heightmap(textures/yocto/light_r1_h.tga, 1))
+	specularmap textures/yocto/light_r1_s.tga
+	surfaceparm nomarks
+	q3map_surfacelight 10000
+	q3map_lightRGB 1 0 1
 	{
 		map textures/yocto/light_r1_g_magenta.tga
 		blendfunc GL_ONE GL_ONE
@@ -398,6 +504,8 @@ textures/yocto/light_r1_g_magenta
 textures/yocto/light_fifty1_g_magenta
 {
 	qer_editorimage textures/yocto/light_fifty1_g_magenta.tga
+	normalmap addnormals(textures/yocto/light_fifty1_local.tga, heightmap(textures/yocto/light_fifty1_h.tga, 1))
+	specularmap textures/yocto/light_fifty1_s.tga
 	surfaceparm nomarks
 	surfaceparm noimpact
 	surfaceparm nonsolid
@@ -407,13 +515,8 @@ textures/yocto/light_fifty1_g_magenta
 	polygonoffset
 	{
 		map textures/yocto/light_fifty1_d.tga
+		stage diffusemap
 		alphafunc GE128
-		depthwrite
-	}
-	{
-		map $lightmap
-		depthfunc equal
-		blendfunc filter
 	}
 	{
 		map textures/yocto/light_fifty1_g_magenta.tga
@@ -423,44 +526,32 @@ textures/yocto/light_fifty1_g_magenta
 
 // cyan lights RGB(0 1 1)
 
-// tiny
-textures/yocto/light_ceil1_g_cyan
-{
-	qer_editorimage textures/yocto/light_ceil1_g_cyan.tga
-	surfaceparm nomarks
-	q3map_surfacelight 8000
-	q3map_lightRGB .2 .7 1
-	{
-		map $lightmap
-		rgbGen identity
-	}
-	{
-		map textures/yocto/light_ceil1_d.tga
-		blendFunc GL_DST_COLOR GL_ZERO
-		rgbGen identity
-	}
-	{
-		map textures/yocto/light_ceil1_g_cyan.tga
-		blendfunc GL_ONE GL_ONE
-	}
-}
-
 // small
 textures/yocto/light_r1_g_cyan
 {
 	qer_editorimage textures/yocto/light_r1_g_cyan.tga
+	diffusemap textures/yocto/light_r1_d.tga
+	normalmap addnormals(textures/yocto/light_r1_local.tga, heightmap(textures/yocto/light_r1_h.tga, 1))
+	specularmap textures/yocto/light_r1_s.tga
 	surfaceparm nomarks
 	q3map_surfacelight 7000
-	q3map_lightRGB .2 .7 1
+	q3map_lightRGB .1 .7 1
 	{
-		map $lightmap
-		rgbGen identity
+		map textures/yocto/light_r1_g_cyan.tga
+		blendfunc GL_ONE GL_ONE
 	}
-	{
-		map textures/yocto/light_r1_d.tga
-		blendFunc GL_DST_COLOR GL_ZERO
-		rgbGen identity
-	}
+}
+
+// small strong
+textures/yocto/light_r1_g_cyan_strong
+{
+	qer_editorimage textures/yocto/light_r1_g_cyan.tga
+	diffusemap textures/yocto/light_r1_d.tga
+	normalmap addnormals(textures/yocto/light_r1_local.tga, heightmap(textures/yocto/light_r1_h.tga, 1))
+	specularmap textures/yocto/light_r1_s.tga
+	surfaceparm nomarks
+	q3map_surfacelight 12000
+	q3map_lightRGB .1 .7 1
 	{
 		map textures/yocto/light_r1_g_cyan.tga
 		blendfunc GL_ONE GL_ONE
@@ -471,12 +562,36 @@ textures/yocto/light_r1_g_cyan
 textures/yocto/light_fifty_g_cyan 
 {
 	qer_editorimage textures/yocto/light_fifty_g_cyan.tga
+	normalmap addnormals(textures/yocto/light_fifty_local.tga, heightmap(textures/yocto/light_fifty_h.tga, 1))
+	specularmap textures/yocto/light_fifty_s.tga
 	surfaceparm nomarks
 	surfaceparm noimpact
 	surfaceparm nonsolid
 	surfaceparm trans
 	q3map_surfacelight 5000
-	q3map_lightRGB .2 .7 1
+	q3map_lightRGB .1 .7 1
+	polygonoffset
+	{
+		map textures/yocto/light_fifty_d.tga
+		stage diffusemap
+		alphafunc GE128
+	}
+	{
+		map textures/yocto/light_fifty_g_cyan.tga
+		blendfunc GL_ONE GL_ONE
+	}
+}
+
+// small decal strong
+textures/yocto/light_fifty_g_cyan_strong 
+{
+	qer_editorimage textures/yocto/light_fifty_g_cyan.tga
+	surfaceparm nomarks
+	surfaceparm noimpact
+	surfaceparm nonsolid
+	surfaceparm trans
+	q3map_surfacelight 12000
+	q3map_lightRGB .1 .7 1
 	polygonoffset
 	{
 		map textures/yocto/light_fifty_d.tga
@@ -498,22 +613,19 @@ textures/yocto/light_fifty_g_cyan
 textures/yocto/light_fifty1_g_cyan
 {
 	qer_editorimage textures/yocto/light_fifty1_g_cyan.tga
+	normalmap addnormals(textures/yocto/light_fifty1_local.tga, heightmap(textures/yocto/light_fifty1_h.tga, 1))
+	specularmap textures/yocto/light_fifty1_s.tga
 	surfaceparm nomarks
 	surfaceparm noimpact
 	surfaceparm nonsolid
 	surfaceparm trans
 	q3map_surfacelight 5000
-	q3map_lightRGB .2 .7 1
+	q3map_lightRGB .1 .7 1
 	polygonoffset
 	{
 		map textures/yocto/light_fifty1_d.tga
+		stage diffusemap
 		alphafunc GE128
-		depthwrite
-	}
-	{
-		map $lightmap
-		depthfunc equal
-		blendfunc filter
 	}
 	{
 		map textures/yocto/light_fifty1_g_cyan.tga
@@ -525,18 +637,28 @@ textures/yocto/light_fifty1_g_cyan
 textures/yocto/light_flouro1_g_cyan
 {
 	qer_editorimage textures/yocto/light_flouro1_g_cyan.tga
+	diffusemap textures/yocto/light_flouro1_d.tga
+	normalmap addnormals(textures/yocto/light_flouro1_local.tga, heightmap(textures/yocto/light_flouro1_h.tga, 1))
+	specularmap textures/yocto/light_flouro1_s.tga
 	surfaceparm nomarks
 	q3map_surfacelight 5000
-	q3map_lightRGB .2 .7 1
+	q3map_lightRGB .1 .7 1
 	{
-		map $lightmap
-		rgbGen identity
+		map textures/yocto/light_flouro1_g_cyan.tga
+		blendfunc GL_ONE GL_ONE
 	}
-	{
-		map textures/yocto/light_flouro1_d.tga
-		blendFunc GL_DST_COLOR GL_ZERO
-		rgbGen identity
-	}
+}
+
+// long panel strong
+textures/yocto/light_flouro1_g_cyan_strong
+{
+	qer_editorimage textures/yocto/light_flouro1_g_cyan.tga
+	diffusemap textures/yocto/light_flouro1_d.tga
+	normalmap addnormals(textures/yocto/light_flouro1_local.tga, heightmap(textures/yocto/light_flouro1_h.tga, 1))
+	specularmap textures/yocto/light_flouro1_s.tga
+	surfaceparm nomarks
+	q3map_surfacelight 10000
+	q3map_lightRGB .1 .7 1
 	{
 		map textures/yocto/light_flouro1_g_cyan.tga
 		blendfunc GL_ONE GL_ONE
@@ -547,18 +669,28 @@ textures/yocto/light_flouro1_g_cyan
 textures/yocto/eX_light_u201_add_cyan
 {
 	qer_editorimage textures/eX_light_u201_add_cyan.tga
+	diffusemap textures/yocto/eX_light_u201_d.tga
+	normalmap addnormals(textures/yocto/eX_light_u201_local.tga, heightmap(textures/yocto/eX_light_u201_h.tga, 1))
+	specularmap textures/yocto/eX_light_u201_s.tga
 	surfaceparm nomarks
 	q3map_surfacelight 3000
-	q3map_lightRGB .2 .7 1
+	q3map_lightRGB .1 .7 1
 	{
-		map $lightmap
-		rgbGen identity
+		map textures/yocto/eX_light_u201_add_cyan.tga
+		blendfunc GL_ONE GL_ONE
 	}
-	{
-		map textures/yocto/eX_light_u201_d.tga
-		blendFunc GL_DST_COLOR GL_ZERO
-		rgbGen identity
-	}
+}
+
+// horizontal strong
+textures/yocto/eX_light_u201_add_cyan_strong
+{
+	qer_editorimage textures/eX_light_u201_add_cyan.tga
+	diffusemap textures/yocto/eX_light_u201_d.tga
+	normalmap addnormals(textures/yocto/eX_light_u201_local.tga, heightmap(textures/yocto/eX_light_u201_h.tga, 1))
+	specularmap textures/yocto/eX_light_u201_s.tga
+	surfaceparm nomarks
+	q3map_surfacelight 7000
+	q3map_lightRGB .1 .7 1
 	{
 		map textures/yocto/eX_light_u201_add_cyan.tga
 		blendfunc GL_ONE GL_ONE
@@ -571,18 +703,28 @@ textures/yocto/eX_light_u201_add_cyan
 textures/yocto/light_r1_g_cyan07
 {
 	qer_editorimage textures/yocto/light_r1_g_cyan05.tga
+	diffusemap textures/yocto/light_r1_d.tga
+	normalmap addnormals(textures/yocto/light_r1_local.tga, heightmap(textures/yocto/light_r1_h.tga, 1))
+	specularmap textures/yocto/light_r1_s.tga
 	surfaceparm nomarks
 	q3map_surfacelight 7000
-	q3map_lightRGB .2 .6 1
+	q3map_lightRGB .1 .6 1
 	{
-		map $lightmap
-		rgbGen identity
+		map textures/yocto/light_r1_g_cyan05.tga
+		blendfunc GL_ONE GL_ONE
 	}
-	{
-		map textures/yocto/light_r1_d.tga
-		blendFunc GL_DST_COLOR GL_ZERO
-		rgbGen identity
-	}
+}
+
+// small strong
+textures/yocto/light_r1_g_cyan07_strong
+{
+	qer_editorimage textures/yocto/light_r1_g_cyan05.tga
+	diffusemap textures/yocto/light_r1_d.tga
+	normalmap addnormals(textures/yocto/light_r1_local.tga, heightmap(textures/yocto/light_r1_h.tga, 1))
+	specularmap textures/yocto/light_r1_s.tga
+	surfaceparm nomarks
+	q3map_surfacelight 12000
+	q3map_lightRGB .1 .6 1
 	{
 		map textures/yocto/light_r1_g_cyan05.tga
 		blendfunc GL_ONE GL_ONE
@@ -593,22 +735,43 @@ textures/yocto/light_r1_g_cyan07
 textures/yocto/light_fifty_g_cyan07 
 {
 	qer_editorimage textures/yocto/light_fifty_g_cyan05.tga
+	normalmap addnormals(textures/yocto/light_fifty_local.tga, heightmap(textures/yocto/light_fifty_h.tga, 1))
+	specularmap textures/yocto/light_fifty_s.tga
 	surfaceparm nomarks
 	surfaceparm noimpact
 	surfaceparm nonsolid
 	surfaceparm trans
 	q3map_surfacelight 6000
-	q3map_lightRGB .2 .6 1
+	q3map_lightRGB .1 .6 1
 	polygonoffset
 	{
 		map textures/yocto/light_fifty_d.tga
+		stage diffusemap
 		alphafunc GE128
-		depthwrite
 	}
 	{
-		map $lightmap
-		depthfunc equal
-		blendfunc filter
+		map textures/yocto/light_fifty_g_cyan05.tga
+		blendfunc GL_ONE GL_ONE
+	}
+}
+
+// small decal strong
+textures/yocto/light_fifty_g_cyan07_strong 
+{
+	qer_editorimage textures/yocto/light_fifty_g_cyan05.tga
+	normalmap addnormals(textures/yocto/light_fifty_local.tga, heightmap(textures/yocto/light_fifty_h.tga, 1))
+	specularmap textures/yocto/light_fifty_s.tga
+	surfaceparm nomarks
+	surfaceparm noimpact
+	surfaceparm nonsolid
+	surfaceparm trans
+	q3map_surfacelight 10000
+	q3map_lightRGB .1 .6 1
+	polygonoffset
+	{
+		map textures/yocto/light_fifty_d.tga
+		stage diffusemap
+		alphafunc GE128
 	}
 	{
 		map textures/yocto/light_fifty_g_cyan05.tga
@@ -620,18 +783,28 @@ textures/yocto/light_fifty_g_cyan07
 textures/yocto/light_flouro1_g_cyan07
 {
 	qer_editorimage textures/yocto/light_flouro1_g_cyan05.tga
+	diffusemap textures/yocto/light_flouro1_d.tga
+	normalmap addnormals(textures/yocto/light_flouro1_local.tga, heightmap(textures/yocto/light_flouro1_h.tga, 1))
+	specularmap textures/yocto/light_flouro1_s.tga
 	surfaceparm nomarks
 	q3map_surfacelight 5000
-	q3map_lightRGB .2 .6 1
+	q3map_lightRGB .1 .6 1
 	{
-		map $lightmap
-		rgbGen identity
+		map textures/yocto/light_flouro1_g_cyan05.tga
+		blendfunc GL_ONE GL_ONE
 	}
-	{
-		map textures/yocto/light_flouro1_d.tga
-		blendFunc GL_DST_COLOR GL_ZERO
-		rgbGen identity
-	}
+}
+
+// long panel strong
+textures/yocto/light_flouro1_g_cyan07_strong
+{
+	qer_editorimage textures/yocto/light_flouro1_g_cyan05.tga
+	diffusemap textures/yocto/light_flouro1_d.tga
+	normalmap addnormals(textures/yocto/light_flouro1_local.tga, heightmap(textures/yocto/light_flouro1_h.tga, 1))
+	specularmap textures/yocto/light_flouro1_s.tga
+	surfaceparm nomarks
+	q3map_surfacelight 10000
+	q3map_lightRGB .1 .6 1
 	{
 		map textures/yocto/light_flouro1_g_cyan05.tga
 		blendfunc GL_ONE GL_ONE
@@ -642,18 +815,12 @@ textures/yocto/light_flouro1_g_cyan07
 textures/yocto/eX_light_u201_add_cyan07
 {
 	qer_editorimage textures/eX_light_u201_add_cyan05.tga
+	diffusemap textures/yocto/eX_light_u201_d.tga
+	normalmap addnormals(textures/yocto/eX_light_u201_local.tga, heightmap(textures/yocto/eX_light_u201_h.tga, 1))
+	specularmap textures/yocto/eX_light_u201_s.tga
 	surfaceparm nomarks
 	q3map_surfacelight 3000
-	q3map_lightRGB .2 .6 1
-	{
-		map $lightmap
-		rgbGen identity
-	}
-	{
-		map textures/yocto/eX_light_u201_d.tga
-		blendFunc GL_DST_COLOR GL_ZERO
-		rgbGen identity
-	}
+	q3map_lightRGB .1 .6 1
 	{
 		map textures/yocto/eX_light_u201_add_cyan05.tga
 		blendfunc GL_ONE GL_ONE
@@ -666,18 +833,28 @@ textures/yocto/eX_light_u201_add_cyan07
 textures/yocto/light_r1_g_cyan05
 {
 	qer_editorimage textures/yocto/light_r1_g_cyan05.tga
+	diffusemap textures/yocto/light_r1_d.tga
+	normalmap addnormals(textures/yocto/light_r1_local.tga, heightmap(textures/yocto/light_r1_h.tga, 1))
+	specularmap textures/yocto/light_r1_s.tga
 	surfaceparm nomarks
 	q3map_surfacelight 7000
-	q3map_lightRGB .2 .5 1
+	q3map_lightRGB .1 .5 1
 	{
-		map $lightmap
-		rgbGen identity
+		map textures/yocto/light_r1_g_cyan05.tga
+		blendfunc GL_ONE GL_ONE
 	}
-	{
-		map textures/yocto/light_r1_d.tga
-		blendFunc GL_DST_COLOR GL_ZERO
-		rgbGen identity
-	}
+}
+
+// small strong
+textures/yocto/light_r1_g_cyan05_strong
+{
+	qer_editorimage textures/yocto/light_r1_g_cyan05.tga
+	diffusemap textures/yocto/light_r1_d.tga
+	normalmap addnormals(textures/yocto/light_r1_local.tga, heightmap(textures/yocto/light_r1_h.tga, 1))
+	specularmap textures/yocto/light_r1_s.tga
+	surfaceparm nomarks
+	q3map_surfacelight 12000
+	q3map_lightRGB .1 .5 1
 	{
 		map textures/yocto/light_r1_g_cyan05.tga
 		blendfunc GL_ONE GL_ONE
@@ -688,22 +865,19 @@ textures/yocto/light_r1_g_cyan05
 textures/yocto/light_fifty_g_cyan05 
 {
 	qer_editorimage textures/yocto/light_fifty_g_cyan05.tga
+	normalmap addnormals(textures/yocto/light_fifty_local.tga, heightmap(textures/yocto/light_fifty_h.tga, 1))
+	specularmap textures/yocto/light_fifty_s.tga
 	surfaceparm nomarks
 	surfaceparm noimpact
 	surfaceparm nonsolid
 	surfaceparm trans
 	q3map_surfacelight 5000
-	q3map_lightRGB .2 .5 1
+	q3map_lightRGB .1 .5 1
 	polygonoffset
 	{
 		map textures/yocto/light_fifty_d.tga
+		stage diffusemap
 		alphafunc GE128
-		depthwrite
-	}
-	{
-		map $lightmap
-		depthfunc equal
-		blendfunc filter
 	}
 	{
 		map textures/yocto/light_fifty_g_cyan05.tga
@@ -711,13 +885,38 @@ textures/yocto/light_fifty_g_cyan05
 	}
 }
 
+// small decal strong
+textures/yocto/light_fifty_g_cyan05_strong 
+{
+	qer_editorimage textures/yocto/light_fifty_g_cyan05.tga
+	normalmap addnormals(textures/yocto/light_fifty_local.tga, heightmap(textures/yocto/light_fifty_h.tga, 1))
+	specularmap textures/yocto/light_fifty_s.tga
+	surfaceparm nomarks
+	surfaceparm noimpact
+	surfaceparm nonsolid
+	surfaceparm trans
+	q3map_surfacelight 10000
+	q3map_lightRGB .1 .5 1
+	polygonoffset
+	{
+		map textures/yocto/light_fifty_d.tga
+		stage diffusemap
+		alphafunc GE128
+	}
+	{
+		map textures/yocto/light_fifty_g_cyan05.tga
+		blendfunc GL_ONE GL_ONE
+	}
+}
+
+
 // tile
 textures/yocto/u_lamp4_cyan_05_1
 {
 	qer_editorimage textures/yocto/u_lamp4_cyan_05_1.tga
 	surfaceparm nomarks
 	q3map_surfacelight 4000
-	q3map_lightRGB .2 .5 1
+	q3map_lightRGB .1 .5 1
 	{
 		map $lightmap
 		rgbGen identity
@@ -737,22 +936,19 @@ textures/yocto/u_lamp4_cyan_05_1
 textures/yocto/light_fifty1_g_cyan05
 {
 	qer_editorimage textures/yocto/light_fifty1_g_cyan05.tga
+	normalmap addnormals(textures/yocto/light_fifty1_local.tga, heightmap(textures/yocto/light_fifty1_h.tga, 1))
+	specularmap textures/yocto/light_fifty1_s.tga
 	surfaceparm nomarks
 	surfaceparm noimpact
 	surfaceparm nonsolid
 	surfaceparm trans
 	q3map_surfacelight 5000
-	q3map_lightRGB .2 .5 1
+	q3map_lightRGB .1 .5 1
 	polygonoffset
 	{
 		map textures/yocto/light_fifty1_d.tga
+		stage diffusemap
 		alphafunc GE128
-		depthwrite
-	}
-	{
-		map $lightmap
-		depthfunc equal
-		blendfunc filter
 	}
 	{
 		map textures/yocto/light_fifty1_g_cyan05.tga
@@ -764,18 +960,31 @@ textures/yocto/light_fifty1_g_cyan05
 textures/yocto/light_flouro1_g_cyan05
 {
 	qer_editorimage textures/yocto/light_flouro1_g_cyan05.tga
+	diffusemap textures/yocto/light_flouro1_d.tga
+	normalmap addnormals(textures/yocto/light_flouro1_local.tga, heightmap(textures/yocto/light_flouro1_h.tga, 1))
+	specularmap textures/yocto/light_flouro1_s.tga
 	surfaceparm nomarks
 	q3map_surfacelight 4000
-	q3map_lightRGB .2 .5 1
+	q3map_lightRGB .1 .5 1
 	{
-		map $lightmap
-		rgbGen identity
+		map textures/yocto/light_flouro1_g_cyan05.tga
+		blendfunc GL_ONE GL_ONE
 	}
-	{
-		map textures/yocto/light_flouro1_d.tga
-		blendFunc GL_DST_COLOR GL_ZERO
-		rgbGen identity
-	}
+}
+
+// long panel strong
+textures/yocto/light_flouro1_g_cyan05_strong
+{
+	qer_editorimage textures/yocto/light_flouro1_g_cyan05.tga
+	diffusemap textures/yocto/light_flouro1_d.tga
+	normalmap addnormals(textures/yocto/light_flouro1_local.tga, heightmap(textures/yocto/light_flouro1_h.tga, 1))
+	specularmap textures/yocto/light_flouro1_s.tga
+	surfaceparm nomarks
+	diffusemap textures/yocto/light_flouro1_d.tga
+	normalmap textures/yocto/light_flouro1_local.tga
+	specularmap textures/yocto/light_flouro1_s.tga
+	q3map_surfacelight 8000
+	q3map_lightRGB .1 .5 1
 	{
 		map textures/yocto/light_flouro1_g_cyan05.tga
 		blendfunc GL_ONE GL_ONE
@@ -786,18 +995,12 @@ textures/yocto/light_flouro1_g_cyan05
 textures/yocto/eX_light_u201_add_cyan05
 {
 	qer_editorimage textures/eX_light_u201_add_cyan05.tga
+	diffusemap textures/yocto/eX_light_u201_d.tga
+	normalmap addnormals(textures/yocto/eX_light_u201_local.tga, heightmap(textures/yocto/eX_light_u201_h.tga, 1))
+	specularmap textures/yocto/eX_light_u201_s.tga
 	surfaceparm nomarks
 	q3map_surfacelight 3000
-	q3map_lightRGB .2 .5 1
-	{
-		map $lightmap
-		rgbGen identity
-	}
-	{
-		map textures/yocto/eX_light_u201_d.tga
-		blendFunc GL_DST_COLOR GL_ZERO
-		rgbGen identity
-	}
+	q3map_lightRGB .1 .5 1
 	{
 		map textures/yocto/eX_light_u201_add_cyan05.tga
 		blendfunc GL_ONE GL_ONE
