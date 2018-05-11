@@ -65,7 +65,7 @@ textures/yocto_custom/u_lamp4_b
 		rgbGen identity
 	}
 	{
-		map textures/yocto_custom_src/u_lamp4_g
+		map textures/yocto_custom_src/u_lamp4_a
 		blendfunc GL_ONE GL_ONE
 	}
 }
