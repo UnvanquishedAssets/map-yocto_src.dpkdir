@@ -3,14 +3,14 @@
 // off
 textures/yocto_q4power/light_ceil1_off
 {
-	qer_editorimage textures/yocto_q4power_src/light_ceil1_d
+	qer_editorImage textures/yocto_q4power_src/light_ceil1_d
 	diffuseMap textures/yocto_q4power_src/light_ceil1_d
 }
 
 // yellow tiny
 textures/yocto_q4power/light_ceil1_yellow
 {
-	qer_editorimage textures/yocto_q4power_src/light_ceil1_yellow_a
+	qer_editorImage textures/yocto_q4power_src/light_ceil1_yellow_a
 	surfaceparm nomarks
 	q3map_surfacelight 14000
 	q3map_lightRGB 1 .8 0
@@ -32,7 +32,7 @@ textures/yocto_q4power/light_ceil1_yellow
 // yellow small decal
 textures/yocto_q4power/light_fifty_yellow
 {
-	qer_editorimage textures/yocto_q4power_src/light_fifty_yellow_a
+	qer_editorImage textures/yocto_q4power_src/light_fifty_yellow_a
 	normalMap       textures/yocto_q4power_src/light_fifty_n
 	specularMap     textures/yocto_q4power_src/light_fifty_s
 	surfaceparm nomarks
@@ -56,7 +56,7 @@ textures/yocto_q4power/light_fifty_yellow
 // magenta tiny
 textures/yocto_q4power/light_ceil1_magenta
 {
-	qer_editorimage textures/yocto_q4power_src/light_ceil1_magenta_a
+	qer_editorImage textures/yocto_q4power_src/light_ceil1_magenta_a
 	surfaceparm nomarks
 	q3map_surfacelight 16000
 	q3map_lightRGB 1 .2 1
@@ -78,7 +78,7 @@ textures/yocto_q4power/light_ceil1_magenta
 // magenta small decal
 textures/yocto_q4power/light_fifty_magenta
 {
-	qer_editorimage textures/yocto_q4power_src/light_fifty_magenta_a
+	qer_editorImage textures/yocto_q4power_src/light_fifty_magenta_a
 	normalMap       textures/yocto_q4power_src/light_fifty_n
 	specularMap     textures/yocto_q4power_src/light_fifty_s
 	surfaceparm nomarks
@@ -102,7 +102,7 @@ textures/yocto_q4power/light_fifty_magenta
 // magenta small
 textures/yocto_q4power/light_r1_magenta
 {
-	qer_editorimage textures/yocto_q4power_src/light_r1_magenta_a
+	qer_editorImage textures/yocto_q4power_src/light_r1_magenta_a
 	diffuseMap      textures/yocto_q4power_src/light_r1_d
 	normalMap       textures/yocto_q4power_src/light_r1_n
 	specularMap     textures/yocto_q4power_src/light_r1_s
@@ -118,7 +118,7 @@ textures/yocto_q4power/light_r1_magenta
 // magenta small strong
 textures/yocto_q4power/light_r1_magenta_strong
 {
-	qer_editorimage textures/yocto_q4power_src/light_r1_d
+	qer_editorImage textures/yocto_q4power_src/light_r1_d
 	diffuseMap      textures/yocto_q4power_src/light_r1_d
 	normalMap       textures/yocto_q4power_src/light_r1_n
 	specularMap     textures/yocto_q4power_src/light_r1_s
@@ -134,7 +134,7 @@ textures/yocto_q4power/light_r1_magenta_strong
 // magenta larger decal
 textures/yocto_q4power/light_fifty1_magenta
 {
-	qer_editorimage textures/yocto_q4power_src/light_fifty1_magenta_a
+	qer_editorImage textures/yocto_q4power_src/light_fifty1_magenta_a
 	normalMap       textures/yocto_q4power_src/light_fifty1_n
 	specularMap     textures/yocto_q4power_src/light_fifty1_s
 	surfaceparm nomarks
@@ -159,7 +159,7 @@ textures/yocto_q4power/light_fifty1_magenta
 // blue small
 textures/yocto_q4power/light_r1_blue
 {
-	qer_editorimage textures/yocto_q4power_src/light_r1_blue_a
+	qer_editorImage textures/yocto_q4power_src/light_r1_blue_a
 	diffuseMap      textures/yocto_q4power_src/light_r1_d
 	normalMap       textures/yocto_q4power_src/light_r1_n
 	specularMap     textures/yocto_q4power_src/light_r1_s
@@ -175,7 +175,7 @@ textures/yocto_q4power/light_r1_blue
 // blue small strong
 textures/yocto_q4power/light_r1_blue_strong
 {
-	qer_editorimage textures/yocto_q4power_src/light_r1_h
+	qer_editorImage textures/yocto_q4power_src/light_r1_h
 	diffuseMap      textures/yocto_q4power_src/light_r1_d
 	normalMap       textures/yocto_q4power_src/light_r1_n
 	specularMap     textures/yocto_q4power_src/light_r1_s
@@ -191,7 +191,7 @@ textures/yocto_q4power/light_r1_blue_strong
 // blue small decal
 textures/yocto_q4power/light_fifty_blue
 {
-	qer_editorimage textures/yocto_q4power_src/light_fifty_blue_a
+	qer_editorImage textures/yocto_q4power_src/light_fifty_blue_a
 	normalMap       textures/yocto_q4power_src/light_fifty_n
 	specularMap     textures/yocto_q4power_src/light_fifty_s
 	surfaceparm nomarks
@@ -215,7 +215,7 @@ textures/yocto_q4power/light_fifty_blue
 // blue small decal
 textures/yocto_q4power/light_fifty_blue_strong
 {
-	qer_editorimage textures/yocto_q4power_src/light_fifty_blue_a
+	qer_editorImage textures/yocto_q4power_src/light_fifty_blue_a
 	normalMap       textures/yocto_q4power_src/light_fifty_n
 	specularMap     textures/yocto_q4power_src/light_fifty_s
 	surfaceparm nomarks
@@ -239,7 +239,7 @@ textures/yocto_q4power/light_fifty_blue_strong
 // blue larger decal
 textures/yocto_q4power/light_fifty1_blue
 {
-	qer_editorimage textures/yocto_q4power_src/light_fifty1_blue_a
+	qer_editorImage textures/yocto_q4power_src/light_fifty1_blue_a
 	normalMap       textures/yocto_q4power_src/light_fifty1_n
 	specularMap     textures/yocto_q4power_src/light_fifty1_s
 	surfaceparm nomarks
@@ -263,7 +263,7 @@ textures/yocto_q4power/light_fifty1_blue
 // blue long panel
 textures/yocto_q4power/light_flouro1_blue
 {
-	qer_editorimage textures/yocto_q4power_src/light_flouro1_blue_a
+	qer_editorImage textures/yocto_q4power_src/light_flouro1_blue_a
 	diffuseMap      textures/yocto_q4power_src/light_flouro1_d
 	normalMap       textures/yocto_q4power_src/light_flouro1_n
 	specularMap     textures/yocto_q4power_src/light_flouro1_s
@@ -279,7 +279,7 @@ textures/yocto_q4power/light_flouro1_blue
 // blue long panel strong
 textures/yocto_q4power/light_flouro1_blue_strong
 {
-	qer_editorimage textures/yocto_q4power_src/light_flouro1_d
+	qer_editorImage textures/yocto_q4power_src/light_flouro1_d
 	diffuseMap      textures/yocto_q4power_src/light_flouro1_d
 	normalMap       textures/yocto_q4power_src/light_flouro1_n
 	specularMap     textures/yocto_q4power_src/light_flouro1_s

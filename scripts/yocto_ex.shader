@@ -31,7 +31,7 @@ textures/yocto_ex/base1d_nonsolid
 
 textures/yocto_ex/eX_rndfloor_02st_d
 {
-	qer_editorimage textures/yocto_ex_src/eX_rndfloor_02st_d
+	qer_editorImage textures/yocto_ex_src/eX_rndfloor_02st_d
 	normalMap textures/yocto_ex_src/eX_rndfloor_02_n
 	specularMap textures/yocto_ex_src/eX_rndfloor_02_s
 	surfaceparm trans
@@ -48,7 +48,7 @@ textures/yocto_ex/eX_rndfloor_02st_d
 
 textures/yocto_ex/eX_rndfloor_01st_d
 {
-	qer_editorimage textures/yocto_ex_src/eX_rndfloor_01st_d
+	qer_editorImage textures/yocto_ex_src/eX_rndfloor_01st_d
 	normalMap textures/yocto_ex_src/eX_rndfloor_01_n
 	specularMap textures/yocto_ex_src/eX_rndfloor_01_s
 	surfaceparm trans

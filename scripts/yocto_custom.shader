@@ -2,7 +2,7 @@
 
 textures/yocto_custom/darkglass
 {
-	qer_editorimage textures/yocto_custom_src/black
+	qer_editorImage textures/yocto_custom_src/black
 	qer_trans .3
 	surfaceparm trans
 	cull disable
@@ -23,7 +23,7 @@ textures/yocto_custom/darkglass
 
 textures/yocto_custom/water
 {
-	qer_editorimage textures/yocto_custom_src/black
+	qer_editorImage textures/yocto_custom_src/black
 	qer_trans 0.5
 	surfaceparm trans
 	surfaceparm nonsolid
@@ -51,7 +51,7 @@ textures/yocto_custom/sky
 // blue tile
 textures/yocto_custom/u_lamp4_b
 {
-	qer_editorimage textures/yocto_custom_src/u_lamp4_d
+	qer_editorImage textures/yocto_custom_src/u_lamp4_d
 	surfaceparm nomarks
 	q3map_surfacelight 6001
 	q3map_lightRGB .4 .7 1
