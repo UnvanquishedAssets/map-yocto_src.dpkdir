@@ -4,7 +4,7 @@
 
 textures/yocto_ex/base1a_nonsolid
 {
-	qer_editorImage     textures/shared_ex_src/base1a_p
+	qer_editorImage     textures/shared_ex_src/base1a_d
 
 	surfaceparm         metalsteps
 	surfaceparm         nonsolid
@@ -16,7 +16,7 @@ textures/yocto_ex/base1a_nonsolid
 
 textures/yocto_ex/base1d_nonsolid
 {
-	qer_editorImage     textures/shared_ex_src/base1d_p
+	qer_editorImage     textures/shared_ex_src/base1d_d
 
 	surfaceparm         metalsteps
 	surfaceparm         nonsolid
@@ -65,7 +65,7 @@ textures/yocto_ex/eX_rndfloor_01st_d
 
 textures/yocto_ex/light2_blue_10k
 {
-	qer_editorImage     textures/shared_ex_src/light2_p
+	qer_editorImage     textures/shared_ex_src/light2_d
 
 	q3map_surfacelight  10000
 	q3map_lightRGB      0.482 0.702 1.000
@@ -84,7 +84,7 @@ textures/yocto_ex/light2_blue_10k
 
 textures/yocto_ex/light2_blue_20k
 {
-	qer_editorImage     textures/shared_ex_src/light2_p
+	qer_editorImage     textures/shared_ex_src/light2_d
 
 	q3map_surfacelight  20000
 	q3map_lightRGB      0.482 0.702 1.000
