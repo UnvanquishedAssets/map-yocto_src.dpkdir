@@ -38,6 +38,7 @@ textures/yocto_custom/water
 
 textures/yocto_custom/sky
 {
+	qer_editorimage env/yocto/yocto_up
 	surfaceparm noimpact
 	surfaceparm nolightmap
 	surfaceparm sky
