@@ -26,38 +26,37 @@ textures/yocto_ex/base1d_nonsolid
 	specularMap         textures/shared_ex_src/base1_s
 }
 
-
 // SEMI-TRANSPARENT
 
-textures/yocto_ex/eX_rndfloor_02st_d
+textures/yocto_ex/rndfloor_02st_d
 {
-	qer_editorImage textures/yocto_ex_src/eX_rndfloor_02st_d
-	normalMap textures/yocto_ex_src/eX_rndfloor_02_n
-	specularMap textures/yocto_ex_src/eX_rndfloor_02_s
+	qer_editorImage textures/yocto_ex_src/rndfloor_02st_d
+	normalMap textures/yocto_ex_src/rndfloor_02_n
+	specularMap textures/yocto_ex_src/rndfloor_02_s
 	surfaceparm trans
 	surfaceparm nomarks
 	surfaceparm metalsteps
 	surfaceparm alphashadow
 	nopicmip
 	{
-		map textures/yocto_ex_src/eX_rndfloor_02st_d
+		map textures/yocto_ex_src/rndfloor_02st_d
 		stage diffuseMap
 		blend blend
 	}
 }
 
-textures/yocto_ex/eX_rndfloor_01st_d
+textures/yocto_ex/rndfloor_01st_d
 {
-	qer_editorImage textures/yocto_ex_src/eX_rndfloor_01st_d
-	normalMap textures/yocto_ex_src/eX_rndfloor_01_n
-	specularMap textures/yocto_ex_src/eX_rndfloor_01_s
+	qer_editorImage textures/yocto_ex_src/rndfloor_01st_d
+	normalMap textures/yocto_ex_src/rndfloor_01_n
+	specularMap textures/yocto_ex_src/rndfloor_01_s
 	surfaceparm trans
 	surfaceparm nomarks
 	surfaceparm metalsteps
 	surfaceparm alphashadow
 	nopicmip
 	{
-		map textures/yocto_ex_src/eX_rndfloor_01st_d
+		map textures/yocto_ex_src/rndfloor_01st_d
 		stage diffuseMap
 		alphafunc GE128
 	}
