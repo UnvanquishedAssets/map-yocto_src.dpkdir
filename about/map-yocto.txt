@@ -5,15 +5,14 @@
 
 -[LICENSE]---------------------------------------------------------------------
     Yocto map file is licensed under a
-    Creative Commons Attribution-Noncommercial-Share Alike 3.0 License:  
-    http://creativecommons.org/licenses/by-nc-sa/3.0/
+    Creative Commons Attribution-Share Alike 3.0 license:
+    https://creativecommons.org/licenses/by-sa/3.0/	
 
 -[CREDITS]---------------------------------------------------------------------
     textures : see respective shared_* packages for credits and licenses
                
                Powerplant Textures (q4power) set by Matt "Lunaran" Breit
                (http://www.lunaran.com)
-               
 
     sounds : ambient.wav (originally: sound-underwater2.wav) by zippi1
              (http://www.freesound.org/people/zippi1/sounds/18265/)
@@ -38,7 +37,6 @@
               q3map2 -threads 4 -light  -fast -shade -dirty -patchshadows
                      -randomsamples -samples 3 -bounce 8 -bouncegrid 
                      -lightmapsize 1024 -deluxe
-
 	
 -[CHANGELOG]-------------------------------------------------------------------
 
