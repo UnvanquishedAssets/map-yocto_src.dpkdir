@@ -67,7 +67,7 @@ textures/yocto_ex/light2_blue_10k
 	qer_editorImage     textures/shared_ex_src/light2_d
 
 	q3map_surfacelight  10000
-	q3map_lightRGB      0.482 0.702 1.000
+	q3map_lightRGB      .482 .702 1
 
 	diffuseMap          textures/shared_ex_src/light2_d
 	normalMap           textures/shared_ex_src/light2_n
@@ -75,9 +75,9 @@ textures/yocto_ex/light2_blue_10k
 	{
 		map   textures/shared_ex_src/light2_a
 		blend add
-		red   0.417
-		green 0.654
-		blue  1.000
+		red   .417
+		green .654
+		blue  1
 	}
 }
 
@@ -86,7 +86,7 @@ textures/yocto_ex/light2_blue_20k
 	qer_editorImage     textures/shared_ex_src/light2_d
 
 	q3map_surfacelight  20000
-	q3map_lightRGB      0.482 0.702 1.000
+	q3map_lightRGB      .482 .702 1
 
 	diffuseMap          textures/shared_ex_src/light2_d
 	normalMap           textures/shared_ex_src/light2_n
@@ -94,8 +94,8 @@ textures/yocto_ex/light2_blue_20k
 	{
 		map   textures/shared_ex_src/light2_a
 		blend add
-		red   0.417
-		green 0.654
-		blue  1.000
+		red   .417
+		green .654
+		blue  1
 	}
 }

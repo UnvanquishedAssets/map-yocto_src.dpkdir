@@ -24,7 +24,7 @@ textures/yocto_custom/darkglass
 textures/yocto_custom/water
 {
 	qer_editorImage textures/yocto_custom_src/black
-	qer_trans 0.5
+	qer_trans .5
 	surfaceparm trans
 	surfaceparm nonsolid
 	surfaceparm fog
