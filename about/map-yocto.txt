@@ -6,18 +6,18 @@
 -[LICENSE]---------------------------------------------------------------------
     Yocto map file is licensed under a
     Creative Commons Attribution-Share Alike 3.0 license:
-    https://creativecommons.org/licenses/by-sa/3.0/	
+    https://creativecommons.org/licenses/by-sa/3.0/
 
 -[CREDITS]---------------------------------------------------------------------
     textures : see respective shared_* packages for credits and licenses
-               
+
                Powerplant Textures (q4power) set by Matt "Lunaran" Breit
                (http://www.lunaran.com)
 
-    sounds : ambient.wav (originally: sound-underwater2.wav) by zippi1
-             (http://www.freesound.org/people/zippi1/sounds/18265/)
-             released under CC BY-NC license
-             (http://creativecommons.org/licenses/by-nc/3.0/)
+    sounds : ambient.wav (originally: moving-low-frequencies.wav) by ScreamStudio
+             (https://freesound.org/people/ScreamStudio/sounds/392698/)
+             released under Creative Commons Zero 1.0 license
+             (https://creativecommons.org/publicdomain/zero/1.0/)
 
              motor1.wav (originally: water.wav) by neonaeon
              (http://www.freesound.org/people/neonaeon/sounds/17494/)
@@ -35,29 +35,29 @@
     compile : q3map2 -threads 4 -samplesize 8 -meta -keeplights -custinfoparms
               q3map2 -threads 4 -vis -saveprt -hint
               q3map2 -threads 4 -light  -fast -shade -dirty -patchshadows
-                     -randomsamples -samples 3 -bounce 8 -bouncegrid 
+                     -randomsamples -samples 3 -bounce 8 -bouncegrid
                      -lightmapsize 1024 -deluxe
-	
+
 -[CHANGELOG]-------------------------------------------------------------------
 
     2014-04-27
-    beta 2c    
+    beta 2c
     final compile
     adjusted brightness
 
     2014-04-08
-    beta 2b    
+    beta 2b
     modified color grading
     light adjusted for 1.0 gamma
     textures and shaders base on texture packs
-    
+
     2014-01-15
-    beta 2a    
+    beta 2a
     +color grading
-    +reverb effect 
+    +reverb effect
     modified color scheme
     light improvements (increased intensity, added few)
-    minor bug fixes    
+    minor bug fixes
 
     2012-12-19
     beta 1
@@ -71,12 +71,12 @@
     2012-11-27
     alpha 915
     added sounds, few design changes
-    
+
     2012-11-25
     alpha 914
     first *playable* release
     added clipping, nonsolid details
-	
+
     2012-11-06
     alpha 911
     first full release
