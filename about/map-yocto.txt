@@ -21,14 +21,14 @@
 
              motor1.wav (originally: water.wav) by neonaeon
              (http://www.freesound.org/people/neonaeon/sounds/17494/)
-             released under CC BY license
-             (creativecommons.org/licenses/by/3.0/)
+             released under Creative Commons Attribution 3.0 license
+             (https://creativecommons.org/licenses/by-sa/3.0/)
 
              elevator sounds (doorstop.wav, lift1to2.wav, lift2to1.wav)
              (originally: elevator_motor.wav) by pempi
              (http://www.freesound.org/people/pempi/sounds/33873/)
-             released under CC BY license
-             (creativecommons.org/licenses/by/3.0/)
+             released under Creative Commons Attribution 3.0 license
+             (https://creativecommons.org/licenses/by-sa/3.0/)
 
 -[BUILD]-----------------------------------------------------------------------
     software :  Netradiant 1.5.0, q3map2, GIMP 2.8, audacity 2.0.2
