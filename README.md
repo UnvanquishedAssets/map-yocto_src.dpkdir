@@ -1,7 +1,7 @@
 Yocto game level for Unvanquished
 =================================
 
-![Yocto levelshot](meta/yocto/yocto.png)
+![Yocto levelshot](meta/yocto/yocto.webp)
 
 
 About
