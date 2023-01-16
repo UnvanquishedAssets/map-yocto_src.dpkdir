@@ -1,5 +1,6 @@
 {
-map "yocto"
-longname "Yocto ^3(beta 2c)^7"
-type "tremulous"
+	map "yocto"
+	longname "Yocto"
+	author "Pevel"
+	type "tremulous"
 }
