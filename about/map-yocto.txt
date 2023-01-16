@@ -1,6 +1,7 @@
 -[GENERAL]---------------------------------------------------------------------
     title : Yocto: underwater habitat
     version : beta 2c
+    author : Paweł “Pevel” Micek
     release date : 2014-04-27
 
 -[LICENSE]---------------------------------------------------------------------
