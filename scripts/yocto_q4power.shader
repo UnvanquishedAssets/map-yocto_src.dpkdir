@@ -22,7 +22,7 @@ textures/yocto_q4power/light_ceil1_yellow
 
 	{
 		diffuseMap textures/yocto_q4power_src/light_ceil1_d
-		glowMap    textures/yocto_q4power_src/light_ceil1_yellow_a
+		glowMap textures/yocto_q4power_src/light_ceil1_yellow_a
 	}
 }
 
@@ -41,8 +41,8 @@ textures/yocto_q4power/light_fifty_yellow
 	polygonoffset
 
 	{
-		diffuseMap  textures/yocto_q4power_src/light_fifty_d
-		normalMap   textures/yocto_q4power_src/light_fifty_n
+		diffuseMap textures/yocto_q4power_src/light_fifty_d
+		normalMap textures/yocto_q4power_src/light_fifty_n
 		specularMap textures/yocto_q4power_src/light_fifty_s
 		glowMap textures/yocto_q4power_src/light_fifty_yellow_a
 		alphafunc GE128
@@ -80,10 +80,10 @@ textures/yocto_q4power/light_fifty_magenta
 	polygonoffset
 
 	{
-		diffuseMap  textures/yocto_q4power_src/light_fifty_d
-		normalMap   textures/yocto_q4power_src/light_fifty_n
+		diffuseMap textures/yocto_q4power_src/light_fifty_d
+		normalMap textures/yocto_q4power_src/light_fifty_n
 		specularMap textures/yocto_q4power_src/light_fifty_s
-		glowMap     textures/yocto_q4power_src/light_fifty_magenta_a
+		glowMap textures/yocto_q4power_src/light_fifty_magenta_a
 		alphafunc GE128
 	}
 }
@@ -99,10 +99,10 @@ textures/yocto_q4power/light_r1_magenta
 	surfaceparm nomarks
 
 	{
-		diffuseMap  textures/yocto_q4power_src/light_r1_d
-		normalMap   textures/yocto_q4power_src/light_r1_n
+		diffuseMap textures/yocto_q4power_src/light_r1_d
+		normalMap textures/yocto_q4power_src/light_r1_n
 		specularMap textures/yocto_q4power_src/light_r1_s
-		glowMap     textures/yocto_q4power_src/light_r1_magenta_a
+		glowMap textures/yocto_q4power_src/light_r1_magenta_a
 	}
 }
 
@@ -117,10 +117,10 @@ textures/yocto_q4power/light_r1_magenta_strong
 	surfaceparm nomarks
 
 	{
-		diffuseMap   textures/yocto_q4power_src/light_r1_d
-		normalMap    textures/yocto_q4power_src/light_r1_n
-		specularMap  textures/yocto_q4power_src/light_r1_s
-		glowMap      textures/yocto_q4power_src/light_r1_magenta_a
+		diffuseMap textures/yocto_q4power_src/light_r1_d
+		normalMap textures/yocto_q4power_src/light_r1_n
+		specularMap textures/yocto_q4power_src/light_r1_s
+		glowMap textures/yocto_q4power_src/light_r1_magenta_a
 	}
 }
 
@@ -139,10 +139,10 @@ textures/yocto_q4power/light_fifty1_magenta
 	polygonoffset
 
 	{
-		diffuseMap  textures/yocto_q4power_src/light_fifty1_d
-		normalMap   textures/yocto_q4power_src/light_fifty1_n
+		diffuseMap textures/yocto_q4power_src/light_fifty1_d
+		normalMap textures/yocto_q4power_src/light_fifty1_n
 		specularMap textures/yocto_q4power_src/light_fifty1_s
-		glowMap     textures/yocto_q4power_src/light_fifty1_magenta_a
+		glowMap textures/yocto_q4power_src/light_fifty1_magenta_a
 		alphafunc GE128
 	}
 }
@@ -159,10 +159,10 @@ textures/yocto_q4power/light_r1_blue
 	surfaceparm nomarks
 
 	{
-		diffuseMap  textures/yocto_q4power_src/light_r1_d
-		normalMap   textures/yocto_q4power_src/light_r1_n
+		diffuseMap textures/yocto_q4power_src/light_r1_d
+		normalMap textures/yocto_q4power_src/light_r1_n
 		specularMap textures/yocto_q4power_src/light_r1_s
-		glowMap     textures/yocto_q4power_src/light_r1_blue_a
+		glowMap textures/yocto_q4power_src/light_r1_blue_a
 	}
 }
 
@@ -177,10 +177,10 @@ textures/yocto_q4power/light_r1_blue_strong
 	surfaceparm nomarks
 
 	{
-		diffuseMap  textures/yocto_q4power_src/light_r1_d
-		normalMap   textures/yocto_q4power_src/light_r1_n
+		diffuseMap textures/yocto_q4power_src/light_r1_d
+		normalMap textures/yocto_q4power_src/light_r1_n
 		specularMap textures/yocto_q4power_src/light_r1_s
-		glowMap     textures/yocto_q4power_src/light_r1_blue_a
+		glowMap textures/yocto_q4power_src/light_r1_blue_a
 	}
 }
 
@@ -199,10 +199,10 @@ textures/yocto_q4power/light_fifty_blue
 	polygonoffset
 
 	{
-		diffuseMap  textures/yocto_q4power_src/light_fifty_d
-		normalMap   textures/yocto_q4power_src/light_fifty_n
+		diffuseMap textures/yocto_q4power_src/light_fifty_d
+		normalMap textures/yocto_q4power_src/light_fifty_n
 		specularMap textures/yocto_q4power_src/light_fifty_s
-		glowMap     textures/yocto_q4power_src/light_fifty_blue_a
+		glowMap textures/yocto_q4power_src/light_fifty_blue_a
 		alphafunc GE128
 	}
 }
@@ -222,10 +222,10 @@ textures/yocto_q4power/light_fifty_blue_strong
 	polygonoffset
 
 	{
-		diffuseMap  textures/yocto_q4power_src/light_fifty_d
-		normalMap   textures/yocto_q4power_src/light_fifty_n
+		diffuseMap textures/yocto_q4power_src/light_fifty_d
+		normalMap textures/yocto_q4power_src/light_fifty_n
 		specularMap textures/yocto_q4power_src/light_fifty_s
-		glowMap     textures/yocto_q4power_src/light_fifty_blue_a
+		glowMap textures/yocto_q4power_src/light_fifty_blue_a
 		alphafunc GE128
 	}
 }
@@ -245,10 +245,10 @@ textures/yocto_q4power/light_fifty1_blue
 	polygonoffset
 
 	{
-		diffuseMap  textures/yocto_q4power_src/light_fifty1_d
-		normalMap   textures/yocto_q4power_src/light_fifty1_n
+		diffuseMap textures/yocto_q4power_src/light_fifty1_d
+		normalMap textures/yocto_q4power_src/light_fifty1_n
 		specularMap textures/yocto_q4power_src/light_fifty1_s
-		glowMap     textures/yocto_q4power_src/light_fifty1_blue_a
+		glowMap textures/yocto_q4power_src/light_fifty1_blue_a
 		alphafunc GE128
 	}
 }
@@ -264,10 +264,10 @@ textures/yocto_q4power/light_flouro1_blue
 	surfaceparm nomarks
 
 	{
-		diffuseMap  textures/yocto_q4power_src/light_flouro1_d
-		normalMap   textures/yocto_q4power_src/light_flouro1_n
+		diffuseMap textures/yocto_q4power_src/light_flouro1_d
+		normalMap textures/yocto_q4power_src/light_flouro1_n
 		specularMap textures/yocto_q4power_src/light_flouro1_s
-		glowMap     textures/yocto_q4power_src/light_flouro1_blue_a
+		glowMap textures/yocto_q4power_src/light_flouro1_blue_a
 	}
 }
 
@@ -281,9 +281,9 @@ textures/yocto_q4power/light_flouro1_blue_strong
 
 	surfaceparm nomarks
 	{
-		diffuseMap  textures/yocto_q4power_src/light_flouro1_d
-		normalMap   textures/yocto_q4power_src/light_flouro1_n
+		diffuseMap textures/yocto_q4power_src/light_flouro1_d
+		normalMap textures/yocto_q4power_src/light_flouro1_n
 		specularMap textures/yocto_q4power_src/light_flouro1_s
-		glowMap     textures/yocto_q4power_src/light_flouro1_blue_a
+		glowMap textures/yocto_q4power_src/light_flouro1_blue_a
 	}
 }
