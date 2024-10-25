@@ -1,11 +1,5 @@
 {
 "classname" "worldspawn"
-"message" "Yocto: underwater habitat"
-"gradingTexture" "gfx/yocto/colorgrading"
-"reverbEffect" "spacestation_smallroom"
-"reverbIntensity" "0.75"
-"_blocksize" "0"
-"_lightmapscale" "1"
 {
 ( -2224 1800 808 ) ( -2240 1800 808 ) ( -2224 1800 184 ) common/caulk 0 0 0 0.5 0.5 0 0 0
 ( -2624 1200 448 ) ( -2608 1200 448 ) ( -2624 1360 448 ) common/caulk 0 0 0 0.5 0.5 0 0 0
