@@ -16,6 +16,7 @@ textures/yocto_q4power/light_ceil1_yellow
 	qer_editorImage textures/yocto_q4power_src/light_ceil1_yellow_a
 
 	q3map_surfacelight 14000
+	q3map_backSplash 1 23
 	q3map_lightRGB 1 .8 0
 
 	surfaceparm nomarks
@@ -32,6 +33,7 @@ textures/yocto_q4power/light_fifty_yellow
 	qer_editorImage textures/yocto_q4power_src/light_fifty_yellow_a
 
 	q3map_surfacelight 10000
+	q3map_backSplash 1 23
 	q3map_lightRGB 1 .8 0
 
 	surfaceparm nomarks
@@ -55,6 +57,7 @@ textures/yocto_q4power/light_ceil1_magenta
 	qer_editorImage textures/yocto_q4power_src/light_ceil1_magenta_a
 
 	q3map_surfacelight 16000
+	q3map_backSplash 1 23
 	q3map_lightRGB 1 .2 1
 
 	surfaceparm nomarks
@@ -71,6 +74,7 @@ textures/yocto_q4power/light_fifty_magenta
 	qer_editorImage textures/yocto_q4power_src/light_fifty_magenta_a
 
 	q3map_surfacelight 12000
+	q3map_backSplash 1 23
 	q3map_lightRGB 1 .2 1
 
 	surfaceparm nomarks
@@ -94,6 +98,7 @@ textures/yocto_q4power/light_r1_magenta
 	qer_editorImage textures/yocto_q4power_src/light_r1_magenta_a
 
 	q3map_surfacelight 12000
+	q3map_backSplash 1 23
 	q3map_lightRGB 1 .2 1
 
 	surfaceparm nomarks
@@ -112,6 +117,7 @@ textures/yocto_q4power/light_r1_magenta_strong
 	qer_editorImage textures/yocto_q4power_src/light_r1_d
 
 	q3map_surfacelight 18000
+	q3map_backSplash 1 23
 	q3map_lightRGB 1 .2 1
 
 	surfaceparm nomarks
@@ -130,6 +136,7 @@ textures/yocto_q4power/light_fifty1_magenta
 	qer_editorImage textures/yocto_q4power_src/light_fifty1_magenta_a
 
 	q3map_surfacelight 12000
+	q3map_backSplash 1 23
 	q3map_lightRGB 1 .2 1
 
 	surfaceparm nomarks
@@ -154,6 +161,7 @@ textures/yocto_q4power/light_r1_blue
 	qer_editorImage textures/yocto_q4power_src/light_r1_blue_a
 
 	q3map_surfacelight 14000
+	q3map_backSplash 1 23
 	q3map_lightRGB .4 .7 1
 
 	surfaceparm nomarks
@@ -172,6 +180,7 @@ textures/yocto_q4power/light_r1_blue_strong
 	qer_editorImage textures/yocto_q4power_src/light_r1_h
 
 	q3map_surfacelight 28000
+	q3map_backSplash 1 23
 	q3map_lightRGB .4 .7 1
 
 	surfaceparm nomarks
@@ -190,6 +199,7 @@ textures/yocto_q4power/light_fifty_blue
 	qer_editorImage textures/yocto_q4power_src/light_fifty_blue_a
 
 	q3map_surfacelight 14000
+	q3map_backSplash 1 23
 	q3map_lightRGB .4 .7 1
 
 	surfaceparm nomarks
@@ -213,6 +223,7 @@ textures/yocto_q4power/light_fifty_blue_strong
 	qer_editorImage textures/yocto_q4power_src/light_fifty_blue_a
 
 	q3map_surfacelight 25000
+	q3map_backSplash 1 23
 	q3map_lightRGB .4 .7 1
 
 	surfaceparm nomarks
@@ -236,6 +247,7 @@ textures/yocto_q4power/light_fifty1_blue
 	qer_editorImage textures/yocto_q4power_src/light_fifty1_blue_a
 
 	q3map_surfacelight 15000
+	q3map_backSplash 1 23
 	q3map_lightRGB .4 .7 1
 
 	surfaceparm nomarks
@@ -259,6 +271,7 @@ textures/yocto_q4power/light_flouro1_blue
 	qer_editorImage textures/yocto_q4power_src/light_flouro1_blue_a
 
 	q3map_surfacelight 10000
+	q3map_backSplash 1 23
 	q3map_lightRGB .4 .7 1
 
 	surfaceparm nomarks
@@ -277,6 +290,7 @@ textures/yocto_q4power/light_flouro1_blue_strong
 	qer_editorImage textures/yocto_q4power_src/light_flouro1_d
 
 	q3map_surfacelight 18000
+	q3map_backSplash 1 23
 	q3map_lightRGB .4 .7 1
 
 	surfaceparm nomarks
