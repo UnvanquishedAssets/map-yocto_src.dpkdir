@@ -73,6 +73,7 @@ textures/yocto_ex/light2_blue_10k
 	qer_editorImage textures/shared_ex_src/light2_d
 
 	q3map_surfacelight 10000
+	q3map_backSplash 1 23
 	q3map_lightRGB .482 .702 1
 
 	{
@@ -94,6 +95,7 @@ textures/yocto_ex/light2_blue_20k
 	qer_editorImage textures/shared_ex_src/light2_d
 
 	q3map_surfacelight 20000
+	q3map_backSplash 1 23
 	q3map_lightRGB .482 .702 1
 
 	{
